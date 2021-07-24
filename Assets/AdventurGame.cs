@@ -6,16 +6,20 @@ using UnityEngine.UI;
 public class AdventurGame : MonoBehaviour
 {
     [SerializeField] Text textComponent;
+    [SerializeField] State startingState;
+
+    State state;
 
     // Start is called before the first frame update
     void Start()
     {
-        textComponent.text = "I'm added programmatically";
+        state = startingState;
+        textComponent.text = state.GetStateStory();
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 }
