@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9dd5f1e2402a8b640a77b89a1a7534c4, type: 3}
-  m_Name: StartingState
+  m_Name: A1. Outside Hangar
   m_EditorClassIdentifier: 
   storyText: "Festers. Everywhere. Armed mostly with gas-powered rock flingers.\r\nAt
     least 10 of them guarding the hangar door. Typical.\r\n\r\nCould try punching
@@ -18,5 +18,5 @@ MonoBehaviour:
     should I do?\r\n1. Take them head on - rush the 10 guards.\r\n2. Sneak my way
     to the emergency exit."
   nextStates:
-  - {fileID: 11400000, guid: 15e890a36104d014789934fa533b5fa1, type: 2}
-  - {fileID: 11400000, guid: e278db60d1f558840ba90158a151bdab, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
