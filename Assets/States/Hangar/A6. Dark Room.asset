@@ -19,4 +19,6 @@ MonoBehaviour:
     THUNK, \"...get out in time?\", THUNK THUNK, \"...massive pressure\", THUNK THUNK
     \"...for glory\"... THUNK THUNK...\r\n\r\nWhat next, Adventurer?\r\n\r\n1. Get
     closer to the people speaking.\r\n2. Ignore them, keep pushing for the airship."
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: 9dd9b070c3cbe0440a5890d80117d633, type: 2}
+  - {fileID: 11400000, guid: 827b127aacbc99047b3a1180255c62c6, type: 2}

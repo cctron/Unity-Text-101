@@ -18,5 +18,5 @@ MonoBehaviour:
     should I do?\r\n1. Take them head on - rush the 10 guards.\r\n2. Sneak my way
     to the emergency exit."
   nextStates:
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 01c364d7a7e91844e9d0c73360eda482, type: 2}
+  - {fileID: 11400000, guid: ddf04b1fa26d2b543aca8bb772c53f69, type: 2}

@@ -10,23 +10,24 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9dd5f1e2402a8b640a77b89a1a7534c4, type: 3}
-  m_Name: A3. Emergency Exit
+  m_Name: B6. Running
   m_EditorClassIdentifier: 
-  storyText: 'Okay, you''re around the corner. No one can see you. You think.
+  storyText: 'You run down a long corridor then up a flight of metal stairs. They
+    make a loud racket as you clamber up them. Thank goodness the machinery in this
+    place is so loud.
 
+    
 
+    In front of you is the emergency exit door. It
+    has an oversized, cast iron lock hanging from a bolted handle. You could try
+    picking the lock, or maybe look for a way to pry it off.
 
-    Bit
-    tough to hear yourself think above the thumping machinery. However, in front
-    of you is the emergency exit door. It has an oversized, cast iron lock hanging
-    from a bolted handle. You could try picking the lock, or maybe look for a way
-    to pry it off.
+    
 
+    What to
+    do?
 
-
-    What to do?
-
-
+    
 
     1. Pick it.
 
